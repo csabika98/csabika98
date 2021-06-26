@@ -1,4 +1,4 @@
-<h2> Hi, I'm Csaba Sallai!!></h2>
+<h2> Hi, I'm Csaba Sallai!!</h2>
 <p><em>Full Stack Developer Student at <a href="http://www.codecool.com">CodeCool</a><img src="https://i.imgur.com/TFqs3yE.png" width="30"></br>
 </em></p>
 
@@ -24,4 +24,6 @@ const csabi = {
 }
 ```
 
+### My projects
+<a href="https://github.com/csabika98/AskMate">AskMate</a>-- Q&A webpage (Stackoverflow like) Python Flask + JavaScript + HTML + CSS + PostgreSQL
 ---
