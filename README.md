@@ -27,6 +27,6 @@ const csabi = {
 ### My projects
 <br><a href="https://github.com/csabika98/AskMate">AskMate</a>-- Q&A webpage (Stackoverflow like) Python Flask + JavaScript + HTML + CSS + PostgreSQL</br>
 <a href="https://github.com/csabika98/phpcardatabase">PHP Car Database System</a> Car database system written in PHP + MySQL + CSS + Javascript
-<a href="https://github.com/csabika98/CodeCoolShop">CodeCoolShop system , Java Servlets, Jetty, Thymeleaf 
+<a href="https://github.com/csabika98/CodeCoolShop">CodeCoolShop</a> system , Java Servlets, Jetty, Thymeleaf 
 
 ---
