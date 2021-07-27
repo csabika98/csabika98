@@ -5,6 +5,9 @@
 [![Twitter: Csaba Sallai](https://img.shields.io/twitter/follow/CsabaSallai?style=social)](https://twitter.com/sallcsa1212)
 [![Linkedin: csabasallai](https://img.shields.io/badge/-csabasallai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/csaba-sallai-8aa981211//)](https://www.linkedin.com/in/csaba-sallai-8aa981211/)
 
+Contact details: 
+Email: sallcsa.csaba8@gmail.com
+
 
 
 ### A few things ABOUT ME!...  
