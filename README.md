@@ -6,7 +6,7 @@
 [![Linkedin: csabasallai](https://img.shields.io/badge/-csabasallai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/csaba-sallai-8aa981211//)](https://www.linkedin.com/in/csaba-sallai-8aa981211/)
 
 Contact details: 
-Email: sallcsa.csaba8@gmail.com
+<br>Email: sallcsa.csaba8@gmail.com</br>
 
 
 
