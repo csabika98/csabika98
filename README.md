@@ -2,8 +2,6 @@
 <p><em>Full Stack Developer Student at <a href="http://www.codecool.com">CodeCool</a><img src="https://i.imgur.com/TFqs3yE.png" width="30"></br>
 </em></p>
 
-[![Twitter: Csaba Sallai](https://img.shields.io/twitter/follow/CsabaSallai?style=social)](https://twitter.com/sallcsa1212)
-[![Linkedin: csabasallai](https://img.shields.io/badge/-csabasallai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/csaba-sallai-8aa981211//)](https://www.linkedin.com/in/csaba-sallai-8aa981211/)
 
 Contact details: 
 <br>Email: sallcsa.csaba8@gmail.com</br>
