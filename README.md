@@ -25,6 +25,11 @@ const csabi = {
  motto: "In order to be irreplaceable, one must always be different"
 }
 ```
+### Python projects
+<br><a href="https://github.com/csabika98/AskMate">SecureERP</a>-- Administration tool written in Python</br>
+<a href="https://github.com/csabika98/AskMatePHP">Battleship  </a>-- Battleship game in Python
+<br><a href="https://github.com/csabika98/phpcardatabase">RougeLikeGame</a> RPG game written in Python
+
 
 ### My projects
 
