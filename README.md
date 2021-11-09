@@ -1,5 +1,6 @@
 <h2> Hi, I'm Csaba Sallai!!</h2>
 <p><em>Full Stack Developer Student at <a href="http://www.codecool.com">CodeCool</a><img src="https://i.imgur.com/TFqs3yE.png" width="30"></br>
+<p><em>Application Support Specialist at <a href="http://www.innoveo.com">Innoveo</a><img src="https://i.imgur.com/ePe3HdZ.png" width="30"></br>
 </em></p>
 
 
