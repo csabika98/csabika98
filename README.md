@@ -6,6 +6,7 @@
 
 Contact details: 
 <br>Email: sallcsa.csaba8@gmail.com</br>
+<br>Phone/Viber/Whatsapp: +36707722576</br>
 <br>follow my Linkedin: [![Linkedin: csabasallai](https://img.shields.io/badge/-csabasallai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/csaba-sallai-8aa981211//)](https://www.linkedin.com/in/csaba-sallai-8aa981211/)
 
 
@@ -14,7 +15,6 @@ Contact details:
 
 ```javascript
 const csabi = {
-  pronouns: "HE" | "HIM",
   code: [Javascript(<3), HTML, CSS, PHP(<3) (IN PROGRESS), Python, Java EE & Java Spring(IN PROGRESS)],
   tools: [React,Docker,LARAVEL,VirtualBOX, VisualStudioCode,Pycharm,IntelIJJ IDEA]
   hobbies: ["TableTennis", "Chess", "Playing Video Games like Valorant, LOL, CS:GO"],
