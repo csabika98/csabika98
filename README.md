@@ -1,47 +1,56 @@
-<h2> Hi, I'm Csaba Sallai!!</h2>
-<p><em>2020-2021 Full Stack Developer Student at <a href="http://www.codecool.com">CodeCool</a><img src="https://i.imgur.com/TFqs3yE.png" width="30"></br>
-<p><em>2021- current Application Support Specialist at <a href="http://www.innoveo.com">Innoveo</a><img src="https://i.imgur.com/nj6A7w5.jpg" width="30"></br>
-</em></p>
+<h1>Professional Background</h1>
 
+<ul>
+  <li>2020-2021 Full Stack Developer Student at CodeCool</li>
+  <li>2021-current Application Support Specialist at Innoveo</li>
+</ul>
 
-Contact details: 
-<br>Email: sallcsa.csaba8@gmail.com</br>
-<br>Phone/Viber/Whatsapp: +36707722576</br>
-<br>follow my Linkedin: [![Linkedin: csabasallai](https://img.shields.io/badge/-csabasallai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/csabika98/)](https://www.linkedin.com/in/csabika98/)
+<h1>Contact Information</h1>
 
+<ul>
+  <li>Email: <a href="mailto:sallcsa.csaba8@gmail.com">sallcsa.csaba8@gmail.com</a></li>
+  <li>Phone/Viber/WhatsApp: <a href="tel:+36707722576">+36707722576</a></li>
+  <li>LinkedIn: Connect with me on <a href="https://www.linkedin.com/in/csabasallai/">LinkedIn</a></li>
+</ul>
 
+<h1>About Me</h1>
 
-### A few things ABOUT ME!...  
+<p>
+  I'm passionate about coding and technology. Here are some details about my skills and interests:
+</p>
 
-```javascript
-const csabi = {
-  code: [Javascript(<3), HTML, CSS, PHP(<3) (IN PROGRESS), Python, Java EE & Java Spring(IN PROGRESS)],
-  tools: [React,Docker,LARAVEL,VirtualBOX, VisualStudioCode,Pycharm,IntelIJJ IDEA]
-  hobbies: ["TableTennis", "Chess", "Playing Video Games like Valorant, LOL, CS:GO"],
-  currentStudies: {
-                        company: "CodeCool",
-                        location: "Miskolc",
-                        position: "Full-Stack Developer student"
-                      },
- motto: "In order to be irreplaceable, one must always be different"
-}
-```
-### Python projects
-<br><a href="https://github.com/csabika98/SecureERP">SecureERP</a>-- Administration tool written in Python</br>
-<a href="https://github.com/csabika98/BattleshipPython">Battleship  </a>-- Battleship game in Python
-<br><a href="https://github.com/csabika98/RougeLikeGamePython">RougeLikeGame</a> RPG game written in Python
+<ul>
+  <li><strong>Programming Languages:</strong> I have experience in JavaScript, HTML, CSS, Python, and I'm currently working on improving my skills in PHP, Java EE, and Java Spring.</li>
+  <li><strong>Tools:</strong> I'm proficient in using various development tools such as React, Docker, Laravel, VirtualBOX, VisualStudioCode, PyCharm, and IntelliJ IDEA.</li>
+  <li><strong>Hobbies:</strong> When I'm not coding, you can find me enjoying hobbies like Table Tennis, Chess, and playing video games like Valorant, League of Legends (LOL), and Counter-Strike: Global Offensive (CS:GO).</li>
+  <li><strong>Current Studies:</strong> I'm currently pursuing my Full-Stack Developer education at CodeCool in Miskolc.</li>
+</ul>
 
+<p><strong>Motto:</strong> "In order to be irreplaceable, one must always be different."</p>
 
-### My projects
+<h1>Python Projects</h1>
 
-Current Projects ! : <br><a href="https://github.com/csabika98/askMateLaravel">AskMate Laravel + React</a>-- Q&A webpage (Stackoverflow like) PHP, Laravel, React + JavaScript + HTML + CSS + MySQL
-<br><a href="https://github.com/csabika98/Mercury"> codename:Mercury , under development</a> -- Content Management System - PHP/Laravel, MySQL, Blade Template Engine
+<ul>
+  <li><strong>SecureERP:</strong> An administration tool written in Python.</li>
+  <li><strong>Battleship:</strong> A classic Battleship game implemented in Python.</li>
+  <li><strong>RogueLikeGame:</strong> An RPG game developed using Python.</li>
+</ul>
 
- ### Finished projects
-<br><a href="https://github.com/csabika98/AskMate">AskMate</a>-- Q&A webpage (Stackoverflow like) Python Flask + JavaScript + HTML + CSS + PostgreSQL</br>
-<a href="https://github.com/csabika98/AskMatePHP">AskMate in PHP</a>-- Q&A webpage (Stackoverflow like) PHP + JavaScript + HTML + CSS + MySQL
-<br><a href="https://github.com/csabika98/phpcardatabase">PHP Car Database System</a> Car database system written in PHP + MySQL + CSS + Javascript
-<br><a href="https://github.com/csabika98/CodeCoolShop">CodeCoolShop</a> E-commerce system , Java Servlets, Jetty, Thymeleaf</br>
-<a href="https://github.com/csabika98/DungeonCrawl">Dungeon Crawl</a>, RPG game
+<h1>Other Projects</h1>
 
----
+<h2>Current Projects</h2>
+
+<ul>
+  <li><strong>AskMate Laravel + React:</strong> A Q&A webpage similar to Stackoverflow, built using PHP, Laravel, React, JavaScript, HTML, CSS, and MySQL.</li>
+  <li><strong>Codename: Mercury (Under Development):</strong> A Content Management System in progress, developed using PHP/Laravel, MySQL, and the Blade Template Engine.</li>
+</ul>
+
+<h2>Finished Projects</h2>
+
+<ul>
+  <li><strong>AskMate:</strong> A Q&A webpage similar to Stackoverflow, created with Python Flask, JavaScript, HTML, CSS, and PostgreSQL.</li>
+  <li><strong>AskMate in PHP:</strong> A Q&A webpage similar to Stackoverflow, developed using PHP, JavaScript, HTML, CSS, and MySQL.</li>
+  <li><strong>PHP Car Database System:</strong> A car database system built with PHP, MySQL, CSS, and JavaScript.</li>
+  <li><strong>CodeCoolShop:</strong> An e-commerce system developed using Java Servlets, Jetty, and Thymeleaf.</li>
+  <li><strong>Dungeon Crawl:</strong> An RPG game project.</li>
+</ul>
