@@ -14,8 +14,6 @@
 - **Development Tools:** Experienced with React, Docker, Laravel, VirtualBOX, VisualStudioCode, PyCharm, IntelliJ IDEA.
 - **Current Studies:** Pursuing Full-Stack Developer education at CodeCool, Miskolc.
 
-# <h1 align="left">Professional Background</h1>
-
 ###
 
 <div align="left">
@@ -48,7 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
-###
 # About Me
 
 Passionate about coding and technology, I am constantly seeking to improve my skills and work on challenging projects. Outside of my professional interests, I enjoy table tennis, chess, and video games, including Valorant, League of Legends, and Counter-Strike: Global Offensive. I believe in the importance of being unique and strive to bring innovative solutions to my work.
