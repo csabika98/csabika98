@@ -2,7 +2,7 @@
 
 ## Application Support Specialist at Innoveo  
 **2021 - Present**  
-- Currently working as an Application Support Specialist, focusing on maintaining and supporting software applications to ensure optimal performance and user satisfaction.
+- Currently working as an Application Support Specialist, focusing on developing, maintaining and supporting software applications to ensure optimal performance and user satisfaction.
 
 ## Full Stack Developer Student at CodeCool  
 **2020 - 2021**  
