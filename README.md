@@ -1,56 +1,41 @@
-<h1>Professional Background</h1>
+# Professional Background
 
-<ul>
-  <li>2020-2021 Full Stack Developer Student at CodeCool</li>
-  <li>2021-current Application Support Specialist at Innoveo</li>
-</ul>
+## Application Support Specialist at Innoveo  
+**2021 - Present**  
+- Currently working as an Application Support Specialist, focusing on maintaining and supporting software applications to ensure optimal performance and user satisfaction.
 
-<h1>Contact Information</h1>
+## Full Stack Developer Student at CodeCool  
+**2020 - 2021**  
+- Completed intensive training in full-stack development, gaining hands-on experience in various programming languages, development tools, and frameworks.
 
-<ul>
-  <li>Email: <a href="mailto:sallcsa.csaba8@gmail.com">sallcsa.csaba8@gmail.com</a></li>
-  <li>Phone/Viber/WhatsApp: <a href="tel:+36707722576">+36707722576</a></li>
-  <li>LinkedIn: Connect with me on <a href="https://www.linkedin.com/in/csabasallai/">LinkedIn</a></li>
-</ul>
+# Skills & Expertise
 
-<h1>About Me</h1>
+- **Programming Languages:** Proficient in JavaScript, HTML, CSS, Python. Currently enhancing skills in PHP, Java EE, and Java Spring.
+- **Development Tools:** Experienced with React, Docker, Laravel, VirtualBOX, VisualStudioCode, PyCharm, IntelliJ IDEA.
+- **Current Studies:** Pursuing Full-Stack Developer education at CodeCool, Miskolc.
 
-<p>
-  I'm passionate about coding and technology. Here are some details about my skills and interests:
-</p>
+# Projects
 
-<ul>
-  <li><strong>Programming Languages:</strong> I have experience in JavaScript, HTML, CSS, Python, and I'm currently working on improving my skills in PHP, Java EE, and Java Spring.</li>
-  <li><strong>Tools:</strong> I'm proficient in using various development tools such as React, Docker, Laravel, VirtualBOX, VisualStudioCode, PyCharm, and IntelliJ IDEA.</li>
-  <li><strong>Hobbies:</strong> When I'm not coding, you can find me enjoying hobbies like Table Tennis, Chess, and playing video games like Valorant, League of Legends (LOL), and Counter-Strike: Global Offensive (CS:GO).</li>
-  <li><strong>Current Studies:</strong> I'm currently pursuing my Full-Stack Developer education at CodeCool in Miskolc.</li>
-</ul>
+## Python Projects
+- **SecureERP:** Administration tool (Python).
+- **Battleship:** Classic game implementation (Python).
+- **RogueLikeGame:** RPG game development (Python).
 
-<p><strong>Motto:</strong> "In order to be irreplaceable, one must always be different."</p>
+## Web Development Projects
+- **AskMate (Current):** Q&A webpage similar to Stackoverflow, utilizing PHP, Laravel, React, JavaScript, HTML, CSS, MySQL.
+- **Codename: Mercury (Under Development):** Content Management System using PHP/Laravel, MySQL, Blade Template Engine.
 
-<h1>Python Projects</h1>
+# About Me
 
-<ul>
-  <li><strong>SecureERP:</strong> An administration tool written in Python.</li>
-  <li><strong>Battleship:</strong> A classic Battleship game implemented in Python.</li>
-  <li><strong>RogueLikeGame:</strong> An RPG game developed using Python.</li>
-</ul>
+Passionate about coding and technology, I am constantly seeking to improve my skills and work on challenging projects. Outside of my professional interests, I enjoy table tennis, chess, and video games, including Valorant, League of Legends, and Counter-Strike: Global Offensive. I believe in the importance of being unique and strive to bring innovative solutions to my work.
 
-<h1>Other Projects</h1>
+## Motto
 
-<h2>Current Projects</h2>
+"In order to be irreplaceable, one must always be different."
 
-<ul>
-  <li><strong>AskMate Laravel + React:</strong> A Q&A webpage similar to Stackoverflow, built using PHP, Laravel, React, JavaScript, HTML, CSS, and MySQL.</li>
-  <li><strong>Codename: Mercury (Under Development):</strong> A Content Management System in progress, developed using PHP/Laravel, MySQL, and the Blade Template Engine.</li>
-</ul>
+# Contact Information
 
-<h2>Finished Projects</h2>
+- **Email:** [sallcsa.csaba8@gmail.com](mailto:sallcsa.csaba8@gmail.com)
+- **Phone/Viber/WhatsApp:** [+36707722576](tel:+36707722576)
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/csabasallai/)
 
-<ul>
-  <li><strong>AskMate:</strong> A Q&A webpage similar to Stackoverflow, created with Python Flask, JavaScript, HTML, CSS, and PostgreSQL.</li>
-  <li><strong>AskMate in PHP:</strong> A Q&A webpage similar to Stackoverflow, developed using PHP, JavaScript, HTML, CSS, and MySQL.</li>
-  <li><strong>PHP Car Database System:</strong> A car database system built with PHP, MySQL, CSS, and JavaScript.</li>
-  <li><strong>CodeCoolShop:</strong> An e-commerce system developed using Java Servlets, Jetty, and Thymeleaf.</li>
-  <li><strong>Dungeon Crawl:</strong> An RPG game project.</li>
-</ul>
