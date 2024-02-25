@@ -12,7 +12,6 @@
 
 - **Programming Languages:** Proficient in JavaScript, HTML, CSS, Python. Currently enhancing skills in PHP, Java EE, and Java Spring.
 - **Development Tools:** Experienced with React, Docker, Laravel, VirtualBOX, VisualStudioCode, PyCharm, IntelliJ IDEA.
-- **Current Studies:** Pursuing Full-Stack Developer education at CodeCool, Miskolc.
 
 ###
 
