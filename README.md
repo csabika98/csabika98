@@ -1,13 +1,3 @@
-# Professional Background
-
-## Application Support Specialist at Innoveo  
-**2021 - Present**  
-- Currently working as an Application Support Specialist, focusing on developing, maintaining and supporting software applications to ensure optimal performance and user satisfaction.
-
-## Full Stack Developer Student at CodeCool  
-**2020 - 2021**  
-- Completed intensive training in full-stack development, gaining hands-on experience in various programming languages, development tools, and frameworks.
-
 # Skills & Expertise
 
 - **Programming Languages:** Proficient in JavaScript, HTML, CSS, Python. Currently enhancing skills in PHP, Java EE, and Java Spring.
