@@ -47,5 +47,5 @@ Passionate about coding and technology, I am constantly seeking to improve my sk
 
 - **Email:** [sallcsa.csaba8@gmail.com](mailto:sallcsa.csaba8@gmail.com)
 - **Phone/Viber/WhatsApp:** [+36707722576](tel:+36707722576)
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/csabasallai/)
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/csabika98/)
 
