@@ -11,10 +11,10 @@ Passionate about coding and technology, I am constantly seeking to improve my sk
 
 ### 🧐 More About Me:
 - 📚 &nbsp; I’m currently working as a software engineer @Innoveo
-- 🎨 &nbsp; Former student of Codecool
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/csabika98?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/csabika98/)
-- 🖥 &nbsp; When I am free, I either Play Valorant and League of Legends or learn more about different programming languagues/web technologies 
+- 🖥 &nbsp; When I am free, I either Play Valorant and League of Legends 
+or learn more about different programming languagues/web technologies 
 
 ### Everything I used and learned 
   
