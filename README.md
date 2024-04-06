@@ -28,13 +28,11 @@ Passionate about coding and technology, I am constantly seeking to improve my sk
 ---
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/><img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/><img alt="PyCharm" src="https://img.shields.io/badge/IntelliJ%20IDEA-143?style=for-the-badge&logo=intellijidea&logoColor=black&color=black&labelColor=blue"/>
 ---
----
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
 ---
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/GITLAB-3B3C36?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab" ></img><img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="BitBucket" ></img>
-
+---
 # Skills & Expertise
 
 - **Programming Languages:** Proficient in JavaScript, HTML, CSS, Python. Currently enhancing skills in PHP, Java EE, and Java Spring.
