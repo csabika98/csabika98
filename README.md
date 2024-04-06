@@ -10,7 +10,7 @@ Passionate about coding and technology, I am constantly seeking to improve my sk
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="360px"/>
 
 ### 🧐 More About Me:
-- 📚 &nbsp; I’m currently working as a software engineer @Innoveo
+- 📚 &nbsp; I’m currently working as a Java Developer @Innoveo
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/csabika98?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/csabika98/)
 - 🖥 &nbsp; When I am free, I either Play Valorant and League of Legends 
