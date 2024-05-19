@@ -16,7 +16,7 @@ Passionate about coding and technology, I am constantly seeking to improve my sk
 - 🖥 &nbsp; When I am free, I either Play Valorant and League of Legends 
 or learn more about different programming languagues/web technologies 
 
-# MAIN:
+### MAIN:
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
