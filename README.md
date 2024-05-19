@@ -44,7 +44,7 @@ or learn more about different programming languagues/web technologies
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-### Everything I used and learned 
+### WORKING WITH:
   
 ---
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/><img alt="Python" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/><img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -60,14 +60,6 @@ or learn more about different programming languagues/web technologies
 ---
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/GITLAB-3B3C36?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab" ></img><img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="BitBucket" ></img>
 ---
-# Skills & Expertise
-
-- **Programming Languages:** Proficient in JavaScript, HTML, CSS, Python. Currently enhancing skills in PHP, Java EE, and Java Spring.
-- **Development Tools:** Experienced with React, Docker, Laravel, VirtualBOX, VisualStudioCode, PyCharm, IntelliJ IDEA.
-
-## Motto
-
-"In order to be irreplaceable, one must always be different."
 
 # Contact Information
 
