@@ -22,9 +22,13 @@ or learn more about different programming languagues/web technologies
 
 ACTIVE PROJECTS:
 
-[![Flutter](https://github.com/csabika98/flutter_hello_world/blob/main/screenshots/app.svg)](https://github.com/csabika98/flutter_hello_world)
+[![Flutter](/badges/flutter.svg)](https://github.com/csabika98/flutter_hello_world)
 
+[![Python](/badges/app.svg)](https://github.com/csabika98/mocker)
 
+[![Python](/badges/python-fetcher.svg)](https://github.com/csabika98/FETCHER-PUBLIC)
+
+[![Java](/badges/java-xslt.svg)](https://github.com/csabika98/xslt_poc_java)
 
 ### MAIN:
 
