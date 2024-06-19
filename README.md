@@ -35,6 +35,8 @@ ACTIVE PROJECTS:
 
 https://github.com/csabika98/wtAppCPP
 
+https://github.com/csabika98/example-crud.git
+
 [![Flutter](/badges/flutter.svg)](https://github.com/csabika98/flutter_hello_world)
 
 [![Python](/badges/app.svg)](https://github.com/csabika98/mocker)
