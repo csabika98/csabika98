@@ -33,6 +33,8 @@ or learn more about different programming languagues/web technologies
 
 ACTIVE PROJECTS:
 
+https://github.com/csabika98/ReactViteRazorNet8
+
 https://github.com/csabika98/wtAppCPP
 
 https://github.com/csabika98/example-crud.git
