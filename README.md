@@ -33,6 +33,8 @@ or learn more about different programming languagues/web technologies
 
 ACTIVE PROJECTS:
 
+https://github.com/csabika98/ReactViteSpring.git
+
 https://github.com/csabika98/ReactViteBlazorNet8
 
 https://github.com/csabika98/wtAppCPP
