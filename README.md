@@ -41,6 +41,8 @@ https://github.com/csabika98/ReactViteBlazorNet8
 
 ## ACTIVE PROJECTS:
 
+<b> https://github.com/pleszr/motivaa </b>
+
 https://github.com/csabika98/wtAppCPP
 
 https://github.com/csabika98/example-crud.git
