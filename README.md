@@ -31,11 +31,15 @@ or learn more about different programming languagues/web technologies
 ![Others](https://skillicons.dev/icons?i=git,github,markdown,netlify,vercel,vscode,figma,githubactions,gitlab)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-ACTIVE PROJECTS:
+## My OWN TEMPLATE EMPTY PROJECTS WITH REACT FRONTEND:
+
+https://github.com/csabika98/ReactViteLaravel.git
 
 https://github.com/csabika98/ReactViteSpring.git
 
 https://github.com/csabika98/ReactViteBlazorNet8
+
+## ACTIVE PROJECTS:
 
 https://github.com/csabika98/wtAppCPP
 
