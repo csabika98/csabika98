@@ -39,6 +39,8 @@ https://github.com/csabika98/ReactViteSpring.git
 
 https://github.com/csabika98/ReactViteBlazorNet8
 
+https://github.com/csabika98/ReactViteLua.git
+
 ## ACTIVE PROJECTS:
 
 <b> https://github.com/pleszr/motivaa </b>
