@@ -41,6 +41,8 @@ https://github.com/csabika98/ReactViteBlazorNet8
 
 https://github.com/csabika98/ReactViteLua.git
 
+https://github.com/csabika98/OatppCRUDWReact
+
 ## ACTIVE PROJECTS:
 
 <b> https://github.com/pleszr/motivaa </b>
