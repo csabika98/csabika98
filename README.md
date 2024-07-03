@@ -43,6 +43,8 @@ https://github.com/csabika98/ReactViteLua.git
 
 https://github.com/csabika98/OatppCRUDWReact
 
+https://github.com/csabika98/VaporReactVite
+
 ## ACTIVE PROJECTS:
 
 <b> https://github.com/pleszr/motivaa </b>
