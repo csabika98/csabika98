@@ -31,7 +31,17 @@ or learn more about different programming languagues/web technologies
 ![Others](https://skillicons.dev/icons?i=git,github,markdown,netlify,vercel,vscode,figma,githubactions,gitlab)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-## MY OWN CREATED TEMPLATE PROJECTS WITH REACT FRONTEND:
+## ACTIVE PROJECTS:
+
+<b> https://github.com/pleszr/motivaa </b>
+
+https://github.com/csabika98/wtAppCPP
+
+https://github.com/csabika98/example-crud.git
+
+https://github.com/csabika98/Drools-API-RuleEngine-JAVA.git
+
+https://github.com/csabika98/LapisLua
 
 https://github.com/csabika98/ReactViteLaravel.git
 
@@ -44,18 +54,6 @@ https://github.com/csabika98/ReactViteLua.git
 https://github.com/csabika98/OatppCRUDWReact
 
 https://github.com/csabika98/VaporReactVite
-
-## ACTIVE PROJECTS:
-
-<b> https://github.com/pleszr/motivaa </b>
-
-https://github.com/csabika98/wtAppCPP
-
-https://github.com/csabika98/example-crud.git
-
-https://github.com/csabika98/Drools-API-RuleEngine-JAVA.git
-
-https://github.com/csabika98/LapisLua
 
 [![Flutter](/badges/flutter.svg)](https://github.com/csabika98/flutter_hello_world)
 
