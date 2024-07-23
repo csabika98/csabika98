@@ -16,7 +16,6 @@ Passionate about coding and technology, I am constantly seeking to improve my sk
 - 🖥 &nbsp; When I am free, I either Play Valorant and League of Legends 
 or learn more about different programming languagues/web technologies 
 
-### CURRENT:
 
 #### Programming Languages
 ![Languages](https://skillicons.dev/icons?i=php,cpp,python,java,cs,dart,js)
@@ -30,41 +29,6 @@ or learn more about different programming languagues/web technologies
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,github,markdown,netlify,vercel,vscode,figma,githubactions,gitlab)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-## ACTIVE PROJECTS:
-
-
-<b> https://github.com/pleszr/motivaa </b>
-
-<b> https://github.com/csabika98/ExtraWSL </b>
-
-https://github.com/csabika98/wtAppCPP
-
-https://github.com/csabika98/example-crud.git
-
-https://github.com/csabika98/Drools-API-RuleEngine-JAVA.git
-
-https://github.com/csabika98/LapisLua
-
-https://github.com/csabika98/ReactViteLaravel.git
-
-https://github.com/csabika98/ReactViteSpring.git
-
-https://github.com/csabika98/ReactViteBlazorNet8
-
-https://github.com/csabika98/ReactViteLua.git
-
-https://github.com/csabika98/OatppCRUDWReact
-
-https://github.com/csabika98/VaporReactVite
-
-[![Flutter](/badges/flutter.svg)](https://github.com/csabika98/flutter_hello_world)
-
-[![Python](/badges/app.svg)](https://github.com/csabika98/mocker)
-
-[![Python](/badges/python-fetcher.svg)](https://github.com/csabika98/FETCHER-PUBLIC)
-
-[![Java](/badges/java-xslt.svg)](https://github.com/csabika98/xslt_poc_java)
 
 
 # Contact Information
