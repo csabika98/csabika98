@@ -15,11 +15,12 @@
 ## 💻 My Hobby Projects 
 | Project | Description |
 |---------|-------------|
-| [![motivaa](https://github-readme-stats.vercel.app/api/pin/?username=pleszr&repo=motivaa)](https://github.com/pleszr/motivaa) | motivaa, track habits and have weekly score. |
+| [![motivaa](https://github-readme-stats.vercel.app/api/pin/?username=pleszr&repo=motivaa)](https://github.com/pleszr/motivaa) | Motivaa, track habits and have weekly score. |
 | [![webshop-lrv-php](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=webshop-lrv-php&show_owner=true)](https://github.com/csabika98/webshop-lrv-php) | Webshop in Laravel PHP |
-| [![PersonalBlog](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=PersonalBlog&show_owner=true)](https://github.com/csabika98/PersonalBlog) | personal blog application / ASP.NET Core, MongoDB, and Elasticsearch. |
+| [![PersonalBlog](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=PersonalBlog&show_owner=true)](https://github.com/csabika98/PersonalBlog) | Personal blog application / ASP.NET Core, MongoDB, and Elasticsearch. |
 | [![AskMatePHP](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=AskMatePHP&show_owner=true)](https://github.com/csabika98/AskMatePHP) | AskMate, Q&A Forum web app / PHP|
-| [![Mercury](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=Mercury&show_owner=true)](https://github.com/csabika98/Mercury) | POC - CMS System, built in Larave |
+| [![Mercury](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=Mercury&show_owner=true)](https://github.com/csabika98/Mercury) | POC - Custom CMS System, built in Laravel |
+| [![OatppCRUDWReact](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=OatppCRUDWReact&show_owner=true)](https://github.com/csabika98/OatppCRUDWReact) | CRUD operations with Oat++ and React |
 | [![CodeCoolShop](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=CodeCoolShop&show_owner=true)](https://github.com/csabika98/CodeCoolShop) | E-commerce system, Servlets, Jetty|
 | [![DungeonCrawl](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=DungeonCrawl&show_owner=true)](https://github.com/csabika98/DungeonCrawl) | Dungeon Crawl Game with JAVAFX |
 | [![PolishDraughts](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=PolishDraughts&show_owner=true)](https://github.com/csabika98/PolishDraughts) | Polish Draughts Game, checkers in Java |
@@ -27,7 +28,6 @@
 | [![RougeLikeGamePython](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=RougeLikeGamePython&show_owner=true)](https://github.com/csabika98/RougeLikeGamePython) | Rogue-Like Game in Python |
 | [![BattleshipPython](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=BattleshipPython&show_owner=true)](https://github.com/csabika98/BattleshipPython) | Battleship Game in Python |
 | [![NextJS-Keycloak-JS](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=NextJS-Keycloak-JS&show_owner=true)](https://github.com/csabika98/NextJS-Keycloak-JS) | NextJS with Keycloak integration |
-| [![OatppCRUDWReact](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=OatppCRUDWReact&show_owner=true)](https://github.com/csabika98/OatppCRUDWReact) | CRUD operations with Oat++ and React |
 | [![Drools-API-RuleEngine-JAVA](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=Drools-API-RuleEngine-JAVA&show_owner=true)](https://github.com/csabika98/Drools-API-RuleEngine-JAVA) | Drools API and Rule Engine in Java |
 | [![SecureERP](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=SecureERP&show_owner=true)](https://github.com/csabika98/SecureERP) | Secure ERP System |
 | [![mocker](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=mocker&show_owner=true)](https://github.com/csabika98/mocker) | API Mocker Project / Python |
@@ -39,7 +39,3 @@
 | [![ReactViteBlazorNet8](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=ReactViteBlazorNet8&show_owner=true)](https://github.com/csabika98/ReactViteBlazorNet8) | React Vite with Blazor .NET 8 |
 | [![LapisLua](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=LapisLua&show_owner=true)](https://github.com/csabika98/LapisLua) | Lapis Lua Project |
 ---
-
-## ⚙️ GitHub Stats
-
-![Csaba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=csabika98&show_icons=true&count_private=true&hide=contribs&hide_title=true)
