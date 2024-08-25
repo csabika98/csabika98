@@ -11,6 +11,6 @@
 
 # Extra pins:
 
-[![NextJS-Keycloak-JS](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=NextJS-Keycloak-JS&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![OatppCRUDWReact](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=OatppCRUDWReact&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![xslt_poc_java](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=xslt_poc_java&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![NextJS-Keycloak-JS](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=NextJS-Keycloak-JS&show_owner=true)](https://github.com/csabika98/NextJS-Keycloak-JS)
+[![OatppCRUDWReact](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=OatppCRUDWReact&show_owner=true)](https://github.com/csabika98/OatppCRUDWReact)
+[![xslt_poc_java](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=xslt_poc_java&show_owner=true)](https://github.com/csabika98/xslt_poc_java)
