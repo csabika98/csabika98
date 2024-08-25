@@ -1,3 +1,6 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csabika98&hide=javascript,html,css,scss,blade,c)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # Contact Information
 
 - **Email:** [sallcsa.csaba8@gmail.com](mailto:sallcsa.csaba8@gmail.com)
