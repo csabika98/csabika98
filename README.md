@@ -12,7 +12,7 @@
 
 ---
 
-## 💻 My Hobby Projects 
+## 💻 Some Of My Hobby Projects 
 | Project | Description |
 |---------|-------------|
 | [![motivaa](https://github-readme-stats.vercel.app/api/pin/?username=pleszr&repo=motivaa)](https://github.com/pleszr/motivaa) | Motivaa, track habits and have weekly score. |
