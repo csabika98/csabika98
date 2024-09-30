@@ -15,8 +15,8 @@
 ## 💻 Some Of My Hobby Projects 
 | Project | Description |
 |---------|-------------|
-| [![DroolRuleEngineDiscountAndClaimJDK17](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=DroolRuleEngineDiscountAndClaimJDK17)](https://github.com/csabika98/DroolRuleEngineDiscountAndClaimJDK17) | Spring Boot application using Drools rule engine to process business rules for order discounts and claim risk levels. dynamic rule management, enabling you to define, update, and apply custom rules supported via a RESTful API. |
-| [![POIFormulaExplorer](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=POIFormulaExplorer)](https://github.com/csabika98/POIFormulaExplorer) | A utility to explore and list supported and unsupported Excel formulas/functions based on the Apache POI version. |
+| [![DroolRuleEngineDiscountAndClaimJDK17](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=DroolRuleEngineDiscountAndClaimJDK17)](https://github.com/csabika98/DroolRuleEngineDiscountAndClaimJDK17) | Spring Boot application using Drools rule engine to process business rules dynamic rule management, enabling you to define, update, and apply custom rules supported via a RESTful API. |
+| [![POIFormulaExplorer](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=POIFormulaExplorer)](https://github.com/csabika98/POIFormulaExplorer) | A utility to explore and list supported and unsupported Excel formulas/functions |
 | [![motivaa](https://github-readme-stats.vercel.app/api/pin/?username=pleszr&repo=motivaa)](https://github.com/pleszr/motivaa) | Motivaa, track habits and have weekly score. |
 | [![webshop-lrv-php](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=webshop-lrv-php&show_owner=true)](https://github.com/csabika98/webshop-lrv-php) | Webshop in Laravel PHP |
 | [![PersonalBlog](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=PersonalBlog&show_owner=true)](https://github.com/csabika98/PersonalBlog) | Personal blog application / ASP.NET Core, MongoDB, and Elasticsearch. |
