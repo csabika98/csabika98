@@ -1,6 +1,6 @@
 ## 📊 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csabika98&hide=javascript,html,css,scss,blade,c,lua,typescript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csabika98&hide=javascript,html,css,scss,blade,c,lua,typescript,cpp)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
