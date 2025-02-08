@@ -11,10 +11,11 @@
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/csabika98/)
 
 ---
-
+https://github.com/csabika98/broadcom-wl-patched
 ## 💻 Some Of My Hobby Projects 
 | Project | Description |
 |---------|-------------|
+| [![broadcom-wl-patched](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=broadcom-wl-patched)](https://github.com/csabika98/broadcom-wl-patched) | Broadcom Linux hybrid wireless driver Patched for Linux >= 6.12 |
 | [![DroolRuleEngineDiscountAndClaimJDK17](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=DroolRuleEngineDiscountAndClaimJDK17)](https://github.com/csabika98/DroolRuleEngineDiscountAndClaimJDK17) | Spring Boot application using Drools rule engine to process business rules dynamic rule management |
 | [![POIFormulaExplorer](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=POIFormulaExplorer)](https://github.com/csabika98/POIFormulaExplorer) | A utility to explore and list supported and unsupported Excel formulas/functions |
 | [![motivaa](https://github-readme-stats.vercel.app/api/pin/?username=pleszr&repo=motivaa)](https://github.com/pleszr/motivaa) | Motivaa, track habits and have weekly score. |
