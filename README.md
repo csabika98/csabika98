@@ -1,8 +1,17 @@
 ## 📊 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csabika98&hide=javascript,html,css,scss,blade,c,c++)](https://github.com/anuraghazra/github-readme-stats)
+ <a>
+ <img align="center" height=97 src="https://github-profile-trophy.vercel.app/?username=csabika98&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+ </a>
 
----
+<a href="#">
+  <img align="center" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=csabika98&theme=radical"/>  
+</a> 
+
+<a>
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=csabika98&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+</a>
+
 
 ## 📞 Contact Information
 
@@ -11,7 +20,6 @@
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/csabika98/)
 
 ---
-https://github.com/csabika98/broadcom-wl-patched
 ## 💻 Some Of My Hobby Projects 
 | Project | Description |
 |---------|-------------|
@@ -42,3 +50,8 @@ https://github.com/csabika98/broadcom-wl-patched
 | [![ReactViteBlazorNet8](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=ReactViteBlazorNet8&show_owner=true)](https://github.com/csabika98/ReactViteBlazorNet8) | React Vite with Blazor .NET 8 |
 | [![LapisLua](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=LapisLua&show_owner=true)](https://github.com/csabika98/LapisLua) | Lapis Lua Project |
 ---
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_csabika98/count.svg" />
+</p>
