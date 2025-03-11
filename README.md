@@ -20,6 +20,7 @@ My personal website: https://sallai.tech/
 ## 💻 Some Of My Hobby Projects 
 | Project | Description |
 |---------|-------------|
+| [![CustomWebAppJava](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=CustomWebAppJava)](https://github.com/csabika98/CustomWebAppJava) | A modern, full-stack blog platform built with Java Spring Boot, MongoDB, and Thymeleaf. This application features secure admin-protected endpoints for content management, uses MVC pattern |
 | [![broadcom-wl-patched](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=broadcom-wl-patched)](https://github.com/csabika98/broadcom-wl-patched) | Broadcom Linux hybrid wireless driver Patched for Linux >= 6.12 |
 | [![DroolRuleEngineDiscountAndClaimJDK17](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=DroolRuleEngineDiscountAndClaimJDK17)](https://github.com/csabika98/DroolRuleEngineDiscountAndClaimJDK17) | Spring Boot application using Drools rule engine to process business rules dynamic rule management |
 | [![POIFormulaExplorer](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=POIFormulaExplorer)](https://github.com/csabika98/POIFormulaExplorer) | A utility to explore and list supported and unsupported Excel formulas/functions |
