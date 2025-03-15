@@ -15,11 +15,11 @@ My personal website: https://sallai.tech/
 - **Email:** [sallcsa.csaba8@gmail.com](mailto:sallcsa.csaba8@gmail.com)
 - **Phone/Viber/WhatsApp:** [+36202687838](tel:+36202687838)
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/csabika98/)
-
 ---
 ## 💻 Some Of My Hobby Projects 
 | Project | Description |
 |---------|-------------|
+| [![lua-nginx-modsec-bot-blocker](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=lua-nginx-modsec-bot-blocker)](https://github.com/csabika98/lua-nginx-modsec-bot-blocker) | Enhanced Nginx Build with Lua Support, ModSecurity WAF, and Security Modules  |
 | [![CustomWebAppJava](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=CustomWebAppJava)](https://github.com/csabika98/CustomWebAppJava) | A modern, full-stack blog platform built with Java Spring Boot, MongoDB, and Thymeleaf. This application features secure admin-protected endpoints for content management, uses MVC pattern |
 | [![broadcom-wl-patched](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=broadcom-wl-patched)](https://github.com/csabika98/broadcom-wl-patched) | Broadcom Linux hybrid wireless driver Patched for Linux >= 6.12 |
 | [![DroolRuleEngineDiscountAndClaimJDK17](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=DroolRuleEngineDiscountAndClaimJDK17)](https://github.com/csabika98/DroolRuleEngineDiscountAndClaimJDK17) | Spring Boot application using Drools rule engine to process business rules dynamic rule management |
