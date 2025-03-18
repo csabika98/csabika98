@@ -74,7 +74,7 @@
 - 🔭 I’m currently working on **software development projects** **cybersecurity** **devops**
 - 🌱 I’m currently exploring **advanced C++ and Java frameworks, including cybersecurity**
 - 👨💻 All my projects are available at [sallai.tech](https://sallai.tech)
-- 💬 Ask me about **C++, PHP, and Java**
+- 💬 Ask me about **C++, PHP, and Java, Python, JS, Docker, Kubernetes, Bash...**
 - 📫 How to reach me **sallcsa.csaba8@gmail.com**
 
 
