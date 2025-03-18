@@ -63,14 +63,7 @@
 </div>
 
 </h3>
-<h1 align="center"> About me </h1> <br>
-<p align="center">
-  <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="https://github-widgetbox.vercel.app/api/profile?username=csabika98&data=followers,repositories,stars,commits&theme=darkmode" width="500">
-  </a>
-</p>
-
-
+<h1 align="center"> About me </h1>
 <h1 align="center"> <p align="center"> <img src="https://komarev.com/ghpvc/?username=csabika98&label=Profile%20views&color=0e75b6&style=flat" alt="csabika98"> <img alt="followers" src="https://img.shields.io/github/followers/csabika98?label=Followers&style=social"> <img src="https://img.shields.io/github/stars/csabika98?label=Stars" alt="stars"> <a href="https://www.linkedin.com/in/csabika98/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">  </a> <a href="https://www.sallai.tech" target="_blank"> <img src="https://img.shields.io/static/v1?label=website&message=sallai.tech&color=blue" /> </a> </p> </h1> <br>
 
 
