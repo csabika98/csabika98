@@ -1,20 +1,73 @@
-## 📊 Top Languages
-## My personal website: https://sallai.tech
-
- <div>
- <img align="center" height=100% src="https://github-profile-trophy.vercel.app/?username=csabika98&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+<h1 align="center">Hi 👋, I'm <a href="https://sallai.tech" target="blank">Csaba Sallai</a></h1>
+<h3 align="center">🇭🇺</h3>
+<h3 align="center">Tech stack</h3>
 
 
-  <img align="center" height=100% src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=csabika98&theme=radical"/>  
-</div>
+<div align="center"><a href="https://nextjs.org/"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> </a>
+<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"></a>
+<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a> </div>
+
+<div align="center">
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></a></div>
+
+<div align="center">
+<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a></div>
+
+</h3>
+<h1 align="center"> About me </h1> <br>
+<p align="center">
+  <a href="https://gitpoint.co/">
+    <img alt="GitPoint" title="GitPoint" src="https://github-widgetbox.vercel.app/api/profile?username=csabika98&data=followers,repositories,stars,commits&theme=darkmode" width="500">
+  </a>
+</p>
 
 
+<h1 align="center"> <p align="center"> <img src="https://komarev.com/ghpvc/?username=csabika98&label=Profile%20views&color=0e75b6&style=flat" alt="csabika98"> <img alt="followers" src="https://img.shields.io/github/followers/csabika98?label=Followers&style=social"> <img src="https://img.shields.io/github/stars/csabika98?label=Stars" alt="stars"> <a href="https://www.linkedin.com/in/csabika98/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">  </a> <a href="https://www.sallai.tech" target="_blank"> <img src="https://img.shields.io/static/v1?label=website&message=sallai.tech&color=blue" /> </a> </p> </h1> <br>
 
-## 📞 Contact Information
-My personal website: https://sallai.tech/
-- **Email:** [sallcsa.csaba8@gmail.com](mailto:sallcsa.csaba8@gmail.com)
-- **Phone/Viber/WhatsApp:** [+36202687838](tel:+36202687838)
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/csabika98/)
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+- 🔭 I’m currently working on **software development projects** **cybersecurity** **devops**
+- 🌱 I’m currently exploring **advanced C++ and Java frameworks, including cybersecurity**
+- 👨💻 All my projects are available at [sallai.tech](https://sallai.tech)
+- 💬 Ask me about **C++, PHP, and Java**
+- 📫 How to reach me **sallcsa.csaba8@gmail.com**
+
+
+<br/>
+
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with me 🤝 </h3>
+
+<p align="center">
+  <div align="center" class="icons-social" style="margin-left: 10px;">
+    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/csabika98/">
+      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/csabika98">
+      <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+    </a>
+    <a style="margin-left: 10px;" href="mailto:sallcsa.csaba8@gmail.com">
+      <img src="https://img.icons8.com/doodle/40/000000/gmail.png">
+    </a>
+    <a style="margin-left: 10px;" href="tel:+36202687838">
+      <img src="https://img.icons8.com/doodle/40/000000/phone.png">
+    </a>
+  </div>
+</p>
+
+---
+
+### 🛠️ Top Languages
+
+<h3 align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=csabika98&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=html,css,scss,blade,c,c++" alt="ovi" />  </h3>
+
 ---
 ## 💻 Some Of My Hobby Projects 
 | Project | Description |
