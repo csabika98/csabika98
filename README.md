@@ -1,3 +1,5 @@
+
+My personal website: https://sallai.tech
 <h1 align="center">Hi 👋, I'm <a href="https://sallai.tech" target="blank">Csaba Sallai</a></h1>
 <h3 align="center">🇭🇺 <img src="https://raw.githubusercontent.com/OdooCommunityWidgets/website_language_flags/refs/heads/master/static/images/flags/16x12/hu.png"></h3>
 <h3 align="center">Working for <a href="https://www.linkedin.com/company/innoveo-solutions/">@Innoveo</h3></a>
