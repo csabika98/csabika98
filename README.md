@@ -122,6 +122,7 @@ My personal website: https://sallai.tech
 ## 💻 Some Of My Hobby Projects 
 | Project | Description |
 |---------|-------------|
+| [![YaruCursorWindows](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=YaruCursorWindows)](https://github.com/csabika98/YaruCursorWindows) | YaruCursorWindows  |
 | [![GenAI](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=GenAI)](https://github.com/csabika98/GenAI) | GenAI  |
 | [![CarDiagScannerPOC](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=CarDiagScannerPOC&show_owner=true)](https://github.com/csabika98/CarDiagScannerPOC) | Car Diagnostic Scanner - POC, Computer Vision-based Gen AI System for Car Damage Detection + Training dataset |
 | [![lua-nginx-modsec-bot-blocker](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=lua-nginx-modsec-bot-blocker)](https://github.com/csabika98/lua-nginx-modsec-bot-blocker) | Enhanced Nginx Build with Lua Support, ModSecurity WAF, and Security Modules  |
