@@ -122,6 +122,7 @@ My personal website: https://sallai.tech
 ## 💻 Some Of My Hobby Projects 
 | Project | Description |
 |---------|-------------|
+| [![GenAI](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=GenAI)](https://github.com/csabika98/GenAI) | GenAI  |
 | [![lua-nginx-modsec-bot-blocker](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=lua-nginx-modsec-bot-blocker)](https://github.com/csabika98/lua-nginx-modsec-bot-blocker) | Enhanced Nginx Build with Lua Support, ModSecurity WAF, and Security Modules  |
 | [![CustomWebAppJava](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=CustomWebAppJava)](https://github.com/csabika98/CustomWebAppJava) | A modern, full-stack blog platform built with Java Spring Boot, MongoDB, and Thymeleaf. This application features secure admin-protected endpoints for content management, uses MVC pattern |
 | [![broadcom-wl-patched](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=broadcom-wl-patched)](https://github.com/csabika98/broadcom-wl-patched) | Broadcom Linux hybrid wireless driver Patched for Linux >= 6.12 |
