@@ -123,6 +123,7 @@ My personal website: https://sallai.tech
 | Project | Description |
 |---------|-------------|
 | [![GenAI](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=GenAI)](https://github.com/csabika98/GenAI) | GenAI  |
+| [![CarDiagScannerPOC](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=CarDiagScannerPOC&show_owner=true)](https://github.com/csabika98/CarDiagScannerPOC) | Car Diagnostic Scanner - POC, Computer Vision-based Gen AI System for Car Damage Detection + Training dataset |
 | [![lua-nginx-modsec-bot-blocker](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=lua-nginx-modsec-bot-blocker)](https://github.com/csabika98/lua-nginx-modsec-bot-blocker) | Enhanced Nginx Build with Lua Support, ModSecurity WAF, and Security Modules  |
 | [![CustomWebAppJava](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=CustomWebAppJava)](https://github.com/csabika98/CustomWebAppJava) | A modern, full-stack blog platform built with Java Spring Boot, MongoDB, and Thymeleaf. This application features secure admin-protected endpoints for content management, uses MVC pattern |
 | [![broadcom-wl-patched](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=broadcom-wl-patched)](https://github.com/csabika98/broadcom-wl-patched) | Broadcom Linux hybrid wireless driver Patched for Linux >= 6.12 |
@@ -137,7 +138,6 @@ My personal website: https://sallai.tech
 | [![CodeCoolShop](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=CodeCoolShop&show_owner=true)](https://github.com/csabika98/CodeCoolShop) | E-commerce system, Servlets, Jetty|
 | [![DungeonCrawl](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=DungeonCrawl&show_owner=true)](https://github.com/csabika98/DungeonCrawl) | Dungeon Crawl Game with JAVAFX |
 | [![PolishDraughts](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=PolishDraughts&show_owner=true)](https://github.com/csabika98/PolishDraughts) | Polish Draughts Game, checkers in Java |
-| [![CarDiagScannerPOC](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=CarDiagScannerPOC&show_owner=true)](https://github.com/csabika98/CarDiagScannerPOC) | Car Diagnostic Scanner - POC, using Machine Learning |
 | [![RougeLikeGamePython](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=RougeLikeGamePython&show_owner=true)](https://github.com/csabika98/RougeLikeGamePython) | Rogue-Like Game in Python |
 | [![BattleshipPython](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=BattleshipPython&show_owner=true)](https://github.com/csabika98/BattleshipPython) | Battleship Game in Python |
 | [![NextJS-Keycloak-JS](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=NextJS-Keycloak-JS&show_owner=true)](https://github.com/csabika98/NextJS-Keycloak-JS) | NextJS with Keycloak integration |
