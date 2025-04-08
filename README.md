@@ -5,13 +5,13 @@
 
 <div align="center">
   <a href="https://sallai.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Website-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Website-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white&color=0C4A6E&labelColor=075985"/>
   </a>
   <a href="https://www.linkedin.com/in/csabika98/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white&color=0C4A6E&labelColor=075985"/>
   </a>
   <a href="mailto:sallcsa.csaba8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=0C4A6E&labelColor=075985"/>
   </a>
 </div>
 
