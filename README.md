@@ -60,10 +60,10 @@
 
 <div align="center">
   
-[![MCP-Terminal-AI-Demo-App](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=MCP-Terminal-AI-Demo-App&theme=nightowl)](https://github.com/csabika98/MCP-Terminal-AI-Demo-App)
 [![GenAI](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=GenAI&theme=nightowl)](https://github.com/csabika98/GenAI)
 [![CarDiagScannerPOC](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=CarDiagScannerPOC&theme=nightowl)](https://github.com/csabika98/CarDiagScannerPOC)
 [![CustomWebAppJava](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=CustomWebAppJava&theme=nightowl)](https://github.com/csabika98/CustomWebAppJava)
+[![MCP-Terminal-AI-Demo-App](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=MCP-Terminal-AI-Demo-App&theme=nightowl)](https://github.com/csabika98/MCP-Terminal-AI-Demo-App)
 
 </div>
 
