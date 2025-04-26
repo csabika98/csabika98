@@ -84,10 +84,11 @@ object Csaba {
     val CONTACT = "sallcsa.csaba8@gmail.com"
 }
 ```
-
+https://github.com/csabika98/NextJS-AI-Chatbot
 ## 💻 Some Of My Hobby Projects 
 | Project | Description |
 |---------|-------------|
+|[![NextJS-AI-Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=NextJS-AI-Chatbot&theme=nightowl)](https://github.com/csabika98/NextJS-AI-Chatbot) | Next.js Chatbot App with Ollama API support and W/ Tailwind.|
 |[![MCP-Terminal-AI-Demo-App](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=MCP-Terminal-AI-Demo-App&theme=nightowl)](https://github.com/csabika98/MCP-Terminal-AI-Demo-App) | A terminal-based AI assistant powered by a Master Control Program (MCP) interface and a local LLM. Run natural language commands like execute, create, list, and more—directly on your machine.|
 | [![YaruCursorWindows](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=YaruCursorWindows&theme=nightowl)](https://github.com/csabika98/YaruCursorWindows) | A sleek Ubuntu-inspired cursor theme for Windows 10/11, ported from the original Yaru Design  |
 | [![GenAI](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=GenAI&theme=nightowl)](https://github.com/csabika98/GenAI) | GenAI  |
