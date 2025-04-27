@@ -60,11 +60,11 @@
 
 <div align="center">
   
-[![GenAI](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=GenAI&theme=nightowl)](https://github.com/csabika98/GenAI)
-[![CarDiagScannerPOC](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=CarDiagScannerPOC&theme=nightowl)](https://github.com/csabika98/CarDiagScannerPOC)
-[![CustomWebAppJava](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=CustomWebAppJava&theme=nightowl)](https://github.com/csabika98/CustomWebAppJava)
-[![MCP-Terminal-AI-Demo-App](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=MCP-Terminal-AI-Demo-App&theme=nightowl)](https://github.com/csabika98/MCP-Terminal-AI-Demo-App)
-
+[![GenAI](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&show_owner=true&repo=GenAI&theme=nightowl)](https://github.com/csabika98/GenAI)
+[![CarDiagScannerPOC](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&show_owner=true&repo=CarDiagScannerPOC&theme=nightowl)](https://github.com/csabika98/CarDiagScannerPOC)
+[![CustomWebAppJava](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&show_owner=true&repo=CustomWebAppJava&theme=nightowl)](https://github.com/csabika98/CustomWebAppJava)
+[![MCP-Terminal-AI-Demo-App](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&show_owner=true&repo=MCP-Terminal-AI-Demo-App&theme=nightowl)](https://github.com/csabika98/MCP-Terminal-AI-Demo-App)
+[![NextJS-AI-Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&show_owner=true&repo=NextJS-AI-Chatbot&theme=nightowl)](https://github.com/csabika98/NextJS-AI-Chatbot)
 </div>
 
 ---
@@ -88,7 +88,7 @@ https://github.com/csabika98/NextJS-AI-Chatbot
 ## 💻 Some Of My Hobby Projects 
 | Project | Description |
 |---------|-------------|
-|[![NextJS-AI-Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=NextJS-AI-Chatbot&theme=nightowl)](https://github.com/csabika98/NextJS-AI-Chatbot) | Next.js Chatbot App with Ollama API support and W/ Tailwind.|
+|[![NextJS-AI-Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&show_owner=true&repo=NextJS-AI-Chatbot&theme=nightowl)](https://github.com/csabika98/NextJS-AI-Chatbot) | Next.js Chatbot App with Ollama/OpenAI API support and with Tailwind|
 |[![MCP-Terminal-AI-Demo-App](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=MCP-Terminal-AI-Demo-App&theme=nightowl)](https://github.com/csabika98/MCP-Terminal-AI-Demo-App) | A terminal-based AI assistant powered by a Master Control Program (MCP) interface and a local LLM. Run natural language commands like execute, create, list, and more—directly on your machine.|
 | [![YaruCursorWindows](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=YaruCursorWindows&theme=nightowl)](https://github.com/csabika98/YaruCursorWindows) | A sleek Ubuntu-inspired cursor theme for Windows 10/11, ported from the original Yaru Design  |
 | [![GenAI](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=GenAI&theme=nightowl)](https://github.com/csabika98/GenAI) | GenAI  |
