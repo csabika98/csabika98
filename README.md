@@ -71,10 +71,6 @@
 
 ## 💡 About Me
 
-<div align="center">
-  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300">
-</div>
-
 ```kotlin
 object Csaba {
     const val CURRENT_ROLE = "Working for @Innoveo"
