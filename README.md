@@ -1,6 +1,8 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Csaba+Sallai;" alt="Typing SVG" />
+ 
+  <i> I love creating innovative solutions to real-world problems.  🚀</i>
 </div>
 
 <div align="center">
@@ -18,20 +20,19 @@
 
 ---
 
-<details>
+<details open>
 <summary><b>🧑‍💻 About Me</b></summary>
 <br>
 <img align="right" width="120" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="coder-anim" />
 <ul>
   <li>Software Developer, Devops, Cloud, AI/ML, and Cybersecurity enthusiast</li>
   <li>Currently working at <b>@Innoveo</b></li>
-  
   <li>Always tinkering with automation, reverse engineering, and new tech</li>
   <li>I love creating innovative solutions to real-world problems. </li>
 </ul>
 </details>
 
-<details>
+<details open>
 <summary><b>⚡ Tech Stack & Tools</b></summary>
 <br>
 <div align="center">
@@ -82,19 +83,11 @@
     <a href="https://github.com/csabika98/YaruCursorWindows">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=YaruCursorWindows&theme=nightowl" />
     </a>
-    <!-- Add more pins or project links as desired -->
   </div>
 </details>
 </details>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="70" alt="waving-anim" /><br>
-  <i>Thanks for visiting!<br>Let's connect and build something cool 🚀</i>
-  <br>
-  <img src="https://profile-counter.glitch.me/_csabika98/count.svg" />
-</p>
 
 ## 💻 Some Of My Hobby Projects 
 | Project | Description |
@@ -133,6 +126,8 @@
 | [![LapisLua](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=LapisLua&show_owner=true&theme=nightowl)](https://github.com/csabika98/LapisLua) | Lapis Lua Project |
 ---
 <p align="center">
-  Visitor count<br>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="70" alt="waving-anim" /><br>
+  <i>Thanks for visiting!<br>Let's connect and build something cool 🚀</i>
+  <br>
   <img src="https://profile-counter.glitch.me/_csabika98/count.svg" />
 </p>
