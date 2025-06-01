@@ -15,72 +15,87 @@
   </a>
 </div>
 
+
 ---
 
-## 🚀 Technical Arsenal
+<details>
+<summary><b>🧑‍💻 About Me</b></summary>
+<br>
+<img align="right" width="120" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="coder-anim" />
+<ul>
+  <li>Software Developer, Devops, Cloud, AI/ML, and Cybersecurity enthusiast</li>
+  <li>Currently working at <b>@Innoveo</b></li>
+  
+  <li>Always tinkering with automation, reverse engineering, and new tech</li>
+  <li>I love creating innovative solutions to real-world problems. </li>
+</ul>
+</details>
 
-### **Programming Languages**
+<details>
+<summary><b>⚡ Tech Stack & Tools</b></summary>
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-</div>
-
-### **Cloud & DevOps**
-<div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
-</div>
-
-### **Data & Machine Learning**
-<div align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
 </div>
+</details>
 
+<details>
+<summary><b>📈 Stats & Analytics</b></summary>
+<br>
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csabika98&layout=compact&theme=nightowl&hide=html,css,scss,blade" />
+  <br>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=csabika98&show_icons=true&theme=nightowl" />
+</p>
+</details>
 
----
-
-## 📈 GitHub Analytics
-
+<details>
+<summary><b>🚀 Featured Projects</b></summary>
+<br>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csabika98&layout=compact&theme=nightowl&hide=html,css,scss,blade,c,c++"/>
+  <a href="https://github.com/csabika98/GenAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=GenAI&theme=nightowl" />
+  </a>
+  <a href="https://github.com/csabika98/CarDiagScannerPOC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=CarDiagScannerPOC&theme=nightowl" />
+  </a>
+  <a href="https://github.com/csabika98/NextJS-AI-Chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=NextJS-AI-Chatbot&theme=nightowl" />
+  </a>
 </div>
+<br>
+<details>
+  <summary>See more hobby projects</summary>
+  <div align="center">
+    <a href="https://github.com/csabika98/MCP-Terminal-AI-Demo-App">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=MCP-Terminal-AI-Demo-App&theme=nightowl" />
+    </a>
+    <a href="https://github.com/csabika98/YaruCursorWindows">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=YaruCursorWindows&theme=nightowl" />
+    </a>
+    <!-- Add more pins or project links as desired -->
+  </div>
+</details>
+</details>
 
 ---
 
-## 🏆 Featured Projects
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="70" alt="waving-anim" /><br>
+  <i>Thanks for visiting!<br>Let's connect and build something cool 🚀</i>
+  <br>
+  <img src="https://profile-counter.glitch.me/_csabika98/count.svg" />
+</p>
 
-<div align="center">
-  
-[![GenAI](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&show_owner=true&repo=GenAI&theme=nightowl)](https://github.com/csabika98/GenAI)
-[![CarDiagScannerPOC](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&show_owner=true&repo=CarDiagScannerPOC&theme=nightowl)](https://github.com/csabika98/CarDiagScannerPOC)
-[![CustomWebAppJava](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&show_owner=true&repo=CustomWebAppJava&theme=nightowl)](https://github.com/csabika98/CustomWebAppJava)
-[![MCP-Terminal-AI-Demo-App](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&show_owner=true&repo=MCP-Terminal-AI-Demo-App&theme=nightowl)](https://github.com/csabika98/MCP-Terminal-AI-Demo-App)
-[![NextJS-AI-Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=csabika98&show_owner=true&repo=NextJS-AI-Chatbot&theme=nightowl)](https://github.com/csabika98/NextJS-AI-Chatbot)
-</div>
-
----
-
-## 💡 About Me
-
-```kotlin
-object Csaba {
-    const val CURRENT_ROLE = "Working for @Innoveo"
-    val TECHNOLOGIES = listOf("Java", "C#", "Cloud", "Cybersecurity", "AI/ML")
-    val INTERESTS = listOf("DevOps Automation", "Reverse Engineering", "Cloud Architecture")
-    val CURRENTLY_LEARNING = "Advanced Kubernetes Security"
-    val CONTACT = "sallcsa.csaba8@gmail.com"
-}
-```
-https://github.com/csabika98/NextJS-AI-Chatbot
 ## 💻 Some Of My Hobby Projects 
 | Project | Description |
 |---------|-------------|
