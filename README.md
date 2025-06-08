@@ -25,12 +25,25 @@
 <br>
 <img align="right" width="120" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="coder-anim" />
 <ul>
-  <li>Software Devops, Cloud, AI/ML, and Cybersecurity enthusiast</li>
+  <li>Software, Devops, Cloud, AI/ML, and Cybersecurity enthusiast</li>
   <li>Currently working at <a href="https://github.com/Innoveo"><b>@Innoveo</b></li></a>
   <li>Always tinkering with automation, reverse engineering, and new tech</li>
  
 </ul>
 </details>
+
+
+<details open>
+<summary><b>📞 Contact Me</b></summary>
+<br>
+<ul>
+  <li>📧 <b>Email:</b> <a href="mailto:sallcsa.csaba8@gmail.com">sallcsa.csaba8@gmail.com</a></li>
+  <li>📱 <b>WhatsApp/Mobile/SMS:</b> <a href="https://wa.me/36202687838">+36 20 268 7838</a></li>
+
+  <li>💬 Feel free to reach out for collaborations, questions, or just to chat about tech!</li>
+</ul>
+</details>
+
 
 <details open>
 <summary><b>⚡ Tech Stack & Tools</b></summary>
