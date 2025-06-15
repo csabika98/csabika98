@@ -26,7 +26,7 @@
 <img align="right" width="220" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="coder-anim" />
 <ul>
   <li>Software, Devops, Cloud, AI/ML, and Cybersecurity enthusiast</li>
-  <li>Currently working at <a href="https://github.com/Innoveo"><b>@Innoveo</b></li></a>
+  <li>Currently working at <a href="https://github.com/Innoveo"><b>@Tinubu Innoveo LLC</b></li></a>
   <li>Always tinkering with automation, reverse engineering, and new tech</li>
  
 </ul>
