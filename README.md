@@ -45,7 +45,7 @@
 </details>
 
 
-<details open>
+<details>
 <summary><b>⚡ Tech Stack & Tools</b></summary>
 <br>
 <div align="center">
@@ -113,7 +113,7 @@
 </details>
 </details>
 
-<details open><summary><b>💻 Some Of My Current And Hobby Projects </b></summary>
+<details><summary><b>💻 Some Of My Current And Hobby Projects </b></summary>
 
 ---
 | Project | Description |
