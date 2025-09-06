@@ -157,5 +157,4 @@
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="270" alt="waving-anim" /><br>
   <i>Thanks for visiting!<br>Let's connect and build something cool 🚀</i>
   <br>
-  <img src="https://profile-counter.glitch.me/_csabika98/count.svg" />
 </p>
