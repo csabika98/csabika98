@@ -113,7 +113,8 @@
 </details>
 </details>
 
-<details><summary><b>💻 Some Of My Current And Hobby Projects </b></summary>
+#### Some Of My Current And Hobby Projects 
+<details open><summary></summary>
 
 ---
 | Project | Description |
