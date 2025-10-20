@@ -100,21 +100,10 @@
   </a>
 </div>
 <br>
-<details>
-  <summary>See more hobby projects</summary>
-  <div align="center">
-    <a href="https://github.com/csabika98/MCP-Terminal-AI-Demo-App">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=MCP-Terminal-AI-Demo-App&theme=nightowl" />
-    </a>
-    <a href="https://github.com/csabika98/YaruCursorWindows">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=csabika98&repo=YaruCursorWindows&theme=nightowl" />
-    </a>
-  </div>
-</details>
-</details>
+  
 
-#### Some Of My Current And Hobby Projects 
-<details open><summary></summary>
+
+#### Some Of My Current And Hobby Projects <details open><summary></summary>
 
 ---
 | Project | Description |
