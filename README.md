@@ -103,7 +103,8 @@
   
 
 
-#### Some Of My Current And Hobby Projects <details open><summary></summary>
+#### Some Of My Current And Hobby Projects 
+<details open><summary></summary>
 
 ---
 | Project | Description |
