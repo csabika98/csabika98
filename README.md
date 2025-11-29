@@ -85,7 +85,7 @@
 </p>
 </details>
 
-<details open>
+<details>
 <summary><b>🚀 Featured Projects</b></summary>
 <br>
 <div align="center">
