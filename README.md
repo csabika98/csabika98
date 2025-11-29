@@ -100,7 +100,7 @@
   </a>
 </div>
 <br>
-  
+</details>  
 
 
 #### Some Of My Current And Hobby Projects 
